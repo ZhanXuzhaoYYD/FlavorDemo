@@ -22,7 +22,7 @@
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/ic_whatshot_black_24dp"
+        android:src="@drawable/app_icon"
         android:text="Hello World!"
         android:tint="@android:color/holo_orange_light"
         app:layout_constraintBottom_toBottomOf="parent"
